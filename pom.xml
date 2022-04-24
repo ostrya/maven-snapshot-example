@@ -20,12 +20,12 @@
     <dependency>
       <groupId>org.eclipse.jetty.http3</groupId>
       <artifactId>http3-client</artifactId>
-      <version>11.0.9-SNAPSHOT</version>
+      <version>11.0.10-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.eclipse.jetty.http3</groupId>
       <artifactId>http3-server</artifactId>
-      <version>11.0.9-20220208.001317-1</version>
+      <version>11.0.10-20220403.001321-1</version>
     </dependency>
   </dependencies>
 </project>
