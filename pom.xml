@@ -25,7 +25,7 @@
     <dependency>
       <groupId>org.eclipse.jetty.http3</groupId>
       <artifactId>http3-server</artifactId>
-      <version>11.0.10-20220403.001321-1</version>
+      <version>11.0.20</version>
     </dependency>
   </dependencies>
 </project>
